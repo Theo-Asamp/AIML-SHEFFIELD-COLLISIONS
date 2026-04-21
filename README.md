@@ -224,7 +224,7 @@ Models were evaluated carefully to avoid misleading conclusions.
 
 AI tools were used to support structuring, explanation, and refinement of this work. These tools assisted in improving clarity, generating ideas, and debugging code.
 
-All machine learning implementation, analysis, and final decisions were developed, verified, and critically evaluated by the author.
+All machine learning implementation, analysis, and final decisions were developed, verified, and critically evaluated by me.
 
 ---
 
