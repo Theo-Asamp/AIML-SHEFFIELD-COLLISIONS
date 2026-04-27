@@ -220,6 +220,18 @@ Models were evaluated carefully to avoid misleading conclusions.
 
 ---
 
+## 🤖 AI Prompts Log
+
+AI tools were used to assist with:
+- Structuring the notebook
+- Debugging code issues
+- Improving explanations and clarity
+- Generating documentation
+
+All outputs were reviewed, verified, and adapted by the author.
+
+---
+
 ## 🤖 AI Transparency Statement (AITS Level 2)
 
 AI tools were used to support structuring, explanation, and refinement of this work. These tools assisted in improving clarity, generating ideas, and debugging code.
