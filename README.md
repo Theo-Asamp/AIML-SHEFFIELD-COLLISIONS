@@ -12,19 +12,23 @@ The workflow follows an end-to-end machine learning pipeline including data prep
 
 The dataset used is:
 
-* `dft-road-casualty-statistics-collision-1979-latest-published-year.csv`
+- `dft-road-casualty-statistics-collision-1979-latest-published-year.csv`
 
 This dataset contains UK road collision data with 44 variables, including:
 
-* Collision severity
-* Number of vehicles and casualties
-* Weather and lighting conditions
-* Road characteristics
-* Location data
+- Collision severity  
+- Number of vehicles and casualties  
+- Weather and lighting conditions  
+- Road characteristics  
+- Location data  
 
 Only Sheffield data was selected using:
 
-* `local_authority_ons_district = "E08000019"`
+- `local_authority_ons_district = "E08000019"`
+
+The processed dataset used in this project is:
+
+- `data/processed/sheffield_collisions.csv`
 
 ---
 
@@ -33,7 +37,7 @@ Only Sheffield data was selected using:
 Install required libraries:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 
 ---
@@ -44,7 +48,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 project/
 │
 ├── data/
-│   ├── raw/
 │   └── processed/
 │       └── sheffield_collisions.csv
 │
@@ -53,7 +56,6 @@ project/
 │
 ├── results/
 │   ├── plots/
-│   └── outputs/
 │
 └── README.md
 ```
@@ -73,6 +75,7 @@ jupyter notebook
 * Load and filter dataset
 * Perform EDA
 * Train models
+* Evaluate performance
 * Generate results and visualisations
 
 ---
@@ -242,17 +245,8 @@ All machine learning implementation, analysis, and final decisions were develope
 
 ## 📚 References
 
-* UK Department for Transport Road Safety Data
 * Scikit-learn Documentation
 * Pandas Documentation
 * Seaborn & Matplotlib Documentation
-
----
-
-## 📎 Notes
-
-* All code is written in Python
-* Notebook is fully reproducible
-* Ensure correct file paths before running
 
 ---
