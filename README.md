@@ -230,8 +230,9 @@ AI tools were used to assist with:
 - Debugging code issues
 - Improving explanations and clarity
 - Generating documentation
+- Prompts have been uploaded to a file ai_prompts.txt
 
-All outputs were reviewed, verified, and adapted by the author.
+All outputs were reviewed, verified, and adapted by the me.
 
 ---
 

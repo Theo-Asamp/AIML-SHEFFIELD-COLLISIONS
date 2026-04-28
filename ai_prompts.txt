@@ -1,0 +1,30 @@
+AI Prompts Log
+
+The following prompts were used during the development of this project:
+
+Data & Preprocessing
+How do I load and filter a CSV dataset in pandas?
+How do I select data for a specific location (Sheffield) using a column?
+How do I handle missing values in a dataset?
+How do I encode categorical variables using one-hot encoding?
+Exploratory Data Analysis
+What plots should I include for EDA in a machine learning project?
+How do I create a countplot using seaborn?
+How do I analyse relationships between variables in a dataset?
+Machine Learning Models
+How do I split data into training and testing sets in scikit-learn?
+How do I implement Linear Regression in Python?
+How do I implement Random Forest for regression and classification?
+How do I evaluate a model using MAE and accuracy?
+ Classification & Imbalance
+What is class imbalance and how does it affect models?
+How does class_weight="balanced" work in scikit-learn?
+How do I interpret a confusion matrix?
+ Clustering
+What is K-Means clustering and how does it work?
+Why is feature scaling important for clustering?
+How do I interpret clustering results?
+ Project & Documentation
+How should I structure a machine learning project?
+What should be included in a README file?
+How do I write a conclusion and discuss limitations?
